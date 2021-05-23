@@ -28,7 +28,7 @@ Ideas and Cocepts to create a decentrelised Free Open Source user orienrented Da
 - Swiping like everywhere but different:
    - When you are in the swipe screen you see the public information of a person
    - If you swipe right the Person get's a notification and you additionaly encrypt all your private profile information with their public key
-   - If they swipe right on you, you can see each others profiles. And decide weather you wanna start a conversation.
+   - If they swipe right on you, you can see each others complete profiles. And decide weather you wanna start a conversation.
 - Match percentage like on OkCupid?
    - A lot of personal information has to be secured
    - it has to be accessed to choose whom to show to whom
