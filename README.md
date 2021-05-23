@@ -12,7 +12,7 @@ I definetly don't have the capacity for this amount of software development and 
 - All Free
 - Protecting personal Data
 - Non-Platform, decentralized, like mastodon the rest of the fediverse or email, connecting with people on other servers/nodes
-- Compensating for gender roles in our society (Patriarchy exists!)
+- Compensating for gender roles in our society (Patriarchy exists! Trans Right & Trans Inclusivity!)
 - Informing about menteal health risks of online dating, counteracting harmful atractivity and gender based market dynamics in a meaningful way. 
 - Sexwork should be allowed on the platform but seperated from the usual Dating stuff
 
@@ -49,6 +49,7 @@ Ideas how to deal with evil instaced eg. if somone starts an instance with moifi
 
 # Participating
 
-Go! I will let everybody pull of who is commited to goals I defined. :) 
+Mostely I need support from somewhat experienced coders right now, if you're not a programmer you can help by voicing support for the project and generate outreach, just write a tweet etc. Also you can just add suggestions and comments by creating an [issue](https://github.com/foss-non-comercial-dating/ideas/issues/new).
 
-For discussing concepts and ideas you're welcome to create Issues ...
+
+
