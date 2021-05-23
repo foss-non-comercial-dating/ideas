@@ -4,8 +4,8 @@
 
 For a lot of social online activity there are Free (if you don't count paying with private Data) Solutions, that more or less reliably Work. 
 
-It's different with dating Plattforms even though most of my (queer, female and male) Friends are using or have used Dating Apps in the past, all of them more or less hate hate these apps. Basically they want you to pay for every step, they don't reliably work, they sell all your data and allmost all of them belong to to the same few profit over everything parent companies. After a frustrating conversation with a friend I sat down and brainstormed how a good, non-comercial, FOSS (**F**ree **O**pen **S**ource **S**oftware) Dating App could look. 
-I definetly don't have the capacity for this amount of software development and the experience at this stage in my life. But I can atleast share the Ideas I had, with the open source community and with some tons of luck something might emerge.
+It's different with dating Plattforms even though most of my (queer, female and male) Friends are using or have used Dating Apps in the past, all of them more or less hate hate these apps. Basically they want you to pay for every step, they don't reliably work, they sell all your data and allmost all of them belong to to the same few profit over everything parent companies. After a frustrating conversation with a friend I sat down and brainstormed how a good, non-comercial, FOSS (**F**ree **O**pen **S**ource **S**oftware) Dating App could look.
+I definetly don't have the capacity for this amount of software development and the experience at this stage in my life to do this on my own. But I can at least share the Ideas I had, with the open source community and with some tons of luck something might emerge.
 
 # Goals
 - All GNU Open Source: Server and Client(s)
