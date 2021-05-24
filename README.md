@@ -2,6 +2,8 @@
 
 # Why I created this repository
 
+[![Join the chat at https://gitter.im/foss-non-comercial-dating/concept-discussion](https://badges.gitter.im/foss-non-comercial-dating/concept-discussion.svg)](https://gitter.im/foss-non-comercial-dating/concept-discussion?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 For a lot of social online activity there are Free (if you don't count paying with private Data) Solutions, that more or less reliably Work. 
 
 It's different with dating Plattforms even though most of my (queer, female and male) Friends are using or have used Dating Apps in the past, all of them more or less hate hate these apps. Basically they want you to pay for every step, they don't reliably work, they sell all your data and allmost all of them belong to to the same few profit over everything parent companies. After a frustrating conversation with a friend I sat down and brainstormed how a good, non-comercial, FOSS (**F**ree **O**pen **S**ource **S**oftware) Dating App could look.
