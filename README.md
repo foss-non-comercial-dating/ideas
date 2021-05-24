@@ -1,8 +1,9 @@
+### If you're interested join the discussion
+[![Join the chat at https://gitter.im/foss-non-comercial-dating/concept-discussion](https://badges.gitter.im/foss-non-comercial-dating/concept-discussion.svg)](https://gitter.im/foss-non-comercial-dating/concept-discussion?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 
 # Why I created this repository
 
-[![Join the chat at https://gitter.im/foss-non-comercial-dating/concept-discussion](https://badges.gitter.im/foss-non-comercial-dating/concept-discussion.svg)](https://gitter.im/foss-non-comercial-dating/concept-discussion?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 For a lot of social online activity there are Free (if you don't count paying with private Data) Solutions, that more or less reliably Work. 
 
