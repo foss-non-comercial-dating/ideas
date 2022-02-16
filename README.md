@@ -42,12 +42,10 @@ Ideas and Cocepts to create a decentrelised Free Open Source user orienrented Da
    
 #### Evil instances:
 Ideas how to deal with evil instaced eg. if somone starts an instance with moified code and an infinite amount of fake accounts:
-  - Ring of trust between instances?
-  - Blockchain with user registrations? Proof of stake validation?
+  - Ring of trust between instances
 
 #### Content Moderation
-- A different blockchain for flagging users?
-
+- Will also be solved with the ring of trust approach
 
 
 # Participating
